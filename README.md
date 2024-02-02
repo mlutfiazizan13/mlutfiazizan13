@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">
+  Hi, I'm Muhamad Lutfi Azizan
+</h1>
+
 
 <!--
 **mlutfiazizan13/mlutfiazizan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
