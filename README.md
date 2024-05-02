@@ -1,15 +1,10 @@
-<h1 align="center">
+<h1>
   Hi, I'm Muhamad Lutfi Azizan
 </h1>
+<div>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mlutfiazizan13" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlutfiazizan13&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
 
 
 
