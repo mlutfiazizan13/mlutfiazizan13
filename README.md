@@ -2,7 +2,7 @@
   Hi, I'm Muhamad Lutfi Azizan
 </h1>
 <div>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <a href="https://www.linkedin.com/in/muhamad-lutfi-azizan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <div>
 
 
