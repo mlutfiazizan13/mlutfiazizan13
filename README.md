@@ -4,7 +4,20 @@
 <div>
     <a href="https://mlutfiazizan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/muhamad-lutfi-azizan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://open.spotify.com/user/pkzf3ju022cwpmw8m87f13x0i" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ 
 <div>
+
+<br>
+
+I'm a software engineer experienced in building reliable and scaleable application using java, PHP, and javascript. My interest lies in software development, devops and software architecture.
+
+<h1>
+  ⚡Skills
+</h1>
+⋅⋅* Unordered sub-list. 
+
+
 
 
 
