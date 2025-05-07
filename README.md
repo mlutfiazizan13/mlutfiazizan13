@@ -17,9 +17,9 @@ I'm a software engineer experienced in building reliable and scaleable applicati
 </h1>
 
 <ul>
-  <li><strong>Languages:</strong> Java, PHP, Javascripts </li>
+  <li><strong>Languages:</strong> Java, PHP, Javascript, Golang, Python </li>
   <li><strong>Frameworks:</strong> Spring Boot, Laravel, Next.js</li>
-  <li><strong>DevOps:</strong>Kubernetes, Docker, Jenkins, Redis</li>
+  <li><strong>DevOps:</strong> Kubernetes, Docker, Jenkins, Redis</li>
   <li><strong>Database:</strong> PostgreSQL, Microsoft SQL Server, MySQL, MongoDB</li>
 </ul>
 
