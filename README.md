@@ -13,7 +13,7 @@
 I'm a software engineer experienced in building reliable and scaleable application using java, PHP, and javascript. My interest lies in software development, devops and software architecture.
 
 <h1>
-  ⚡Skills
+  Skills
 </h1>
 
 <ul>
