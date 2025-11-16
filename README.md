@@ -24,6 +24,13 @@ I'm a software engineer experienced in building reliable and scaleable applicati
 </ul>
 
 
+<h1>
+  Badge
+</h1>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a8c26105-653e-4b04-9185-0093c77bd3f9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 
 
 
