@@ -28,7 +28,7 @@ I'm a software engineer experienced in building reliable and scaleable applicati
   Badge
 </h1>
 
-[![Credly Badge](https://images.credly.com/size/340x340/images/YOUR_BADGE_IMAGE_ID.png)](https://www.credly.com/badges/a8c26105-653e-4b04-9185-0093c77bd3f9/public_url)
+[![Credly Badge](https://images.credly.com/images/6eb5499c-cf76-4837-ac72-6a254139af1a/image.png)](https://www.credly.com/badges/a8c26105-653e-4b04-9185-0093c77bd3f9/public_url)
 
 
 
