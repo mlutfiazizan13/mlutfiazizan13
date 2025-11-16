@@ -29,7 +29,7 @@ I'm a software engineer experienced in building reliable and scaleable applicati
 </h1>
 
 <a href="https://www.credly.com/badges/a8c26105-653e-4b04-9185-0093c77bd3f9/public_url">
-  <img src="[IMAGE_URL](https://images.credly.com/images/6eb5499c-cf76-4837-ac72-6a254139af1a/image.png)" width="120" />
+  <img src="https://images.credly.com/images/6eb5499c-cf76-4837-ac72-6a254139af1a/image.png" width="120" />
 </a>
 
 
